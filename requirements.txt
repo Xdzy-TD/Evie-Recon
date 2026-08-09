@@ -1,0 +1,6 @@
+cryptography
+numpy
+scapy
+python-whois
+dnspython
+requests
