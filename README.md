@@ -31,8 +31,8 @@ You can use it interactively through the terminal or run scans directly from the
         ███████╗ ╚████╔╝ ██║███████╗
         ╚══════╝  ╚═══╝  ╚═╝╚══════╝
 
-          Network Reconnaissance Toolkit
-                       v4.0
+       Network Reconnaissance Toolkit
+                   v4.0
 ```
 
 ---
